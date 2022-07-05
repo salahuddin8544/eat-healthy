@@ -47,3 +47,43 @@ span{
 .about-desc{
     width: 80%;
 }
+/* About end here */
+.recipie{
+    margin-bottom: 50px;
+}
+.recipie-desc{
+    text-align: center;
+}
+.recipie-desc h3{
+    font-weight: 600;
+    font-size: 30px;
+    margin-top: 150px;
+    color:grey;
+}
+.recipie-desc p{
+    text-align: center;
+    color: gray;
+}
+.recipie-cards{
+    display: flex;
+}
+.recipie-title {
+    width: 50%;
+    box-shadow: 10px 10px 30px grey;
+    padding: 20px;
+    margin: 0 2%;
+    border-radius: 15px;
+}
+.recipie-title img{
+    width:100%;
+    height: 300px;
+    border-radius: 10px;
+}
+.recipie-title h4{
+    font-size: 20px;
+    margin:0;
+}
+.recipie-title p{
+
+    color: gray;
+}
