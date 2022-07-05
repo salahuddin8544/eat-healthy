@@ -1,0 +1,49 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin:0;
+}
+span{
+    color:tomato;
+}
+.half-width{
+    width: 40%;
+    padding: 0 5%;
+}
+.half-width img{
+    width: 90%;
+}
+.half-width h1{
+    font-size: 50px;
+}
+.half-width p{
+    color: gray;
+    margin-bottom: 60px;
+}
+.half-width a{
+    text-decoration: none;
+    font-weight: 500;
+    background-image: linear-gradient(to left,red,orange);
+    padding: 15px 25px;
+    border-radius: 20px;
+    color: white;
+    margin-top: 30px;
+}
+.top-section{
+    display: flex;
+    padding: 100px 0;
+}
+/* about section is star here */
+.about{
+    display: flex;
+    background-image: url(images/Frame\ 56.jpg);
+    background-repeat: no-repeat;
+}
+.half-width h3{
+    font-weight: 600;
+    font-size: 30px;
+    margin-top: 150px;
+    color:grey;
+}
+.about-desc{
+    width: 80%;
+}
